@@ -3,6 +3,14 @@ SherpaDesk Wordpress Theme
 
 Wordpress Theme for sherpadesk.com
 
+
+Base Theme
+===================
+
+
+		Roots - www.roots.io
+
+
 CSS
 ===================
 
